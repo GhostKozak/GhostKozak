@@ -1,7 +1,7 @@
 # Hi 👋, I'm Gökhan 'GhostKozak' Tanrıverdi
 ## 💫About Me :
 
--  A passionate frontend developer from Turkey
+- 👋 A passionate Frontend Developer from Turkey 🇹🇷
 
 - 🌱 I’m currently learning **Javascript**, **Typescript**, **React**, **Flutter** and **English**
 
