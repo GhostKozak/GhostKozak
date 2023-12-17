@@ -3,7 +3,7 @@
 
 - 👋 A passionate Frontend Developer from Turkey 🇹🇷
 
-- 🌱 I’m currently learning **Javascript**, **Typescript**, **React**, **Flutter** and **English**
+- 🌱 I’m currently learning **Javascript**, **Typescript**, **React**, **React Native** and **English**
 
 - 💬 Talk to me about **Anime** 📺 , **Video Games** 🎮, **Foods** 🍲
 
@@ -27,25 +27,25 @@
 <details>
 <summary>⚙️ Things I use to get stuff done</summary>
 
-- **OS:** Windows 11 Pro and Ubuntu 18.04 on WSL
+- **OS:** Windows 11 Pro and Debian on WSL
 - **Laptop:** I don't have (not yet)
 - **Browser:** Firefox
 - **Terminal:** PowerShell: Oh My Posh | ZSH: Oh My Zsh
-- **Code Editor:** VSCode
+- **Code Editor:** VSCode ![(howiuse)](https://howivscode.com/GhostKozak)
 </details>
 
 <details>
 <summary>🖥️ PC Spec</summary>
 
-- **CPU:** AMD RYZEN 5 2600
-- **Motherboard:** MSI A320M-A PRO
-- **Memory:** CORSAIR 3000MHZ 2x8GB
-- **Storage:** SAMSUNG 860 EVO 250GB **&** SEAGATE BARRACUDA 4TB
+- **CPU:** AMD RYZEN 9 7900X
+- **Motherboard:** MSI PRO B650M-A
+- **Memory:** ADATA XPG Lancer Blade 32 GB DDR5-6000
+- **Storage:** SAMSUNG 990 PRO 2 TB **&** SEAGATE BARRACUDA 4TB
 - **Video Card:** MSI RTX2070 SUPER GAMING X
-- **Case:** ZALMAN Z3 PLUS
-- **Power Supply:** FSP HYPER S 700W
+- **Case:** NZXT H5 Flow
+- **Power Supply:** MSI MAG A750GL 750 W
 ---
-- **Monitor:** MSI OPTIX MAG271CQR 27" VA
+- **Monitor:** ViewSonic XG2705-2K
 - **Keyboard:** LOGITECH MX KEYS
 - **Mouse:** RAZER VIPER MINI
 - **Headset:** STEELSERIES ARCTIS 9
